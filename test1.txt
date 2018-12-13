@@ -1,13 +1,1 @@
 git@github.com:Gorgi-Mahdi/test.git
-git@github.com:Gorgi-Mahdi/test.git
-
-git@github.com:Gorgi-Mahdi/test.git
-git@github.com:Gorgi-Mahdi/test.git
-git@github.com:Gorgi-Mahdi/test.git
-
-git@github.com:Gorgi-Mahdi/test.git
-git@github.com:Gorgi-Mahdi/test.git
-
-git@github.com:Gorgi-Mahdi/test.git
-
-git@github.com:Gorgi-Mahdi/test.git
